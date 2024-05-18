@@ -125,4 +125,4 @@ const UniversalModel = new mongoose.Schema({
 
 })
 
-module.exports= mongoose.model('BlockData',UniversalModel)
+module.exports= mongoose.model('BlockData',UniversalModel) 
